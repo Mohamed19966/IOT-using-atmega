@@ -2,7 +2,8 @@
 Using  atmega16 micro controller
 
 using interrupt0 to toggle a LED and displaying state of LED PRESSED and (ON , OFF) on LCD while sending temprature value from lm35 using  UART to another microcontroller and displaying it in LCD every 3 seconds using timer 1 
-
+## Video to Demonstrate 
+Link :https://youtu.be/ivJ70tunlVw
 
 ### Prerequisites
 First you will need an IDE with an avr compiler and proteus for simulation and testing
