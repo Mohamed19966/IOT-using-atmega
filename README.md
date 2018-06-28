@@ -50,3 +50,7 @@ AREF and AVCC of atmega16 is connected to VCC
 switch is connected to PD2 in PORTD 
 TX and RX of UART is connected to RX and TX of the other atmega16 
 ```
+## running application 
+all the steps with picture in this file 
+https://drive.google.com/open?id=1cABLYhiJuW3OzuqlYMvzFkRZzEPFEowT
+
