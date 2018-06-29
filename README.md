@@ -55,3 +55,5 @@ TX and RX of UART is connected to RX and TX of the other atmega16
 all the steps with picture in this file 
 https://drive.google.com/open?id=1cABLYhiJuW3OzuqlYMvzFkRZzEPFEowT
 
+## issue 
+in Proteus ISR of interrupt 0 is executed at the beginning of program without triggring the switch 
